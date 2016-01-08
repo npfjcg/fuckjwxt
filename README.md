@@ -25,8 +25,8 @@ IE 11 可以使用兼容性视图，无需此项目。具体操作方法是，�
 
 原始 URL                                | 目的 URL
 ----------------------------------------|-----------------------------------
-http://jwxt.upc.edu.cn/jwxt/js/core.js  | https://raw.githubusercontent.com/upclinux/fuckjwxt/master/js/core.js
-http://211.87.177.1/jwxt/js/core.js     | https://raw.githubusercontent.com/upclinux/fuckjwxt/master/js/core.js
+http://jwxt.upc.edu.cn/jwxt/js/core.js  | https://upclinux.github.io/fuckjwxt/js/core.js
+http://211.87.177.1/jwxt/js/core.js     | https://upclinux.github.io/fuckjwxt/js/core.js
 
 ## Safari
 
