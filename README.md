@@ -7,7 +7,7 @@ fuckjwxt
 
 有关研究过程和技术细节，可参阅[这篇文章](https://vjudge1.github.io/2015/05/29/let-jiao-wu-xi-tong-support-linux/)。
 
-本篇说明原文来自洋神的 GitHub 仓库，由 Yukino Shiratama 修改完善。
+本篇说明原文来自协会公用的 GitHub 仓库，由于洋神毕业，而新任会长无法直接修改仓库内容，所以本文由 Yukino Shiratama fork 处理并且修改完善。
 
 # 安装
 
